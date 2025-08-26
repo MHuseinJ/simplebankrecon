@@ -1,0 +1,4 @@
+unique_identifier,amount,date,bank
+a1,-100.00,2025-08-01,BankB
+a2,49.98,2025-08-01,BankB
+a3,25.00,2025-08-02,BankB
